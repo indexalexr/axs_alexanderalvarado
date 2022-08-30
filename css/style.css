@@ -60,6 +60,11 @@
     flex-wrap: nowrap;
 }
 
+.card{
+    margin-top: 10px;
+    width: 17rem;
+}
+
 body{
     margin: 0;
     background-color: #f5f7f9;
@@ -231,6 +236,11 @@ section{
 
     .parrafos .card{
         margin-top: 10px;
+        width: 17rem;
+    }
+    .card{
+        margin-top: 10px;
+        width: 17rem;
     }
 }
 
